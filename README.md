@@ -23,3 +23,7 @@ A dynamic webform editor plugin that uses the Flexi Public API to save patient c
     - On the left side menu, a new `Forms` page will appear.
     - There you can create forms like any ordinary *Page* or *Post*.
     - After you created the form, you need to paste it's **shortcode** into your *Page*, *Post*, or *Sidebar*.
+
+## Changelog
+
+[illion-it-group/flexi-wp-plugin-crm-public-api-release/CHANGELOG.md](https://github.com/illion-it-group/flexi-wp-plugin-crm-public-api-release/blob/main/CHANGELOG.md)
